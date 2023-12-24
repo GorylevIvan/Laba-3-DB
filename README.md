@@ -10,7 +10,7 @@ pip install sqlalchemy
 pip install duckdb
 ```
 pip install pandas
-```
+
 ### Создание таблицы в PostgreSQL
 ```
 import sqlalchemy

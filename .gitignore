@@ -1,5 +1,4 @@
 .vscode/
 .db
-.duckdb
 .csv
 __pycache__/

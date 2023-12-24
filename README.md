@@ -27,4 +27,4 @@ df["tpep_pickup_datetime"]=pd.to_datetime(df["tpep_pickup_datetime"])
 df.to_sql('taxi',engine,if_exists='replace',index=False)
 ```
 ## Результаты запусков и сравнительный график
-![График](/граф и результаты/График.png)
+![График](Laba-3-DB/main/граф и результаты/График.png)

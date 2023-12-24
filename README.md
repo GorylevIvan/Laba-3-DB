@@ -28,3 +28,7 @@ df.to_sql('taxi',engine,if_exists='replace',index=False)
 ```
 ## Результаты запусков и сравнительный график
 ![](https://github.com/GorylevIvan/Laba-3-DB/blob/main/%D0%B3%D1%80%D0%B0%D1%84%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA.png)
+![](https://github.com/GorylevIvan/Laba-3-DB/blob/main/%D0%B3%D1%80%D0%B0%D1%84%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B/psycopg2.png)
+![](https://github.com/GorylevIvan/Laba-3-DB/blob/main/%D0%B3%D1%80%D0%B0%D1%84%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B/sqlite3.png)
+![](https://github.com/GorylevIvan/Laba-3-DB/blob/main/%D0%B3%D1%80%D0%B0%D1%84%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B/duckdb.png)
+![](https://github.com/GorylevIvan/Laba-3-DB/blob/main/%D0%B3%D1%80%D0%B0%D1%84%20%D0%B8%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B/pandas.png)
